@@ -1,0 +1,17 @@
+.all-info{
+    margin: 1rem;
+    padding: 0.5rem 2rem;
+    background-color: rgb(74, 74, 74);
+    width: 50%;
+    color: rgb(205, 205, 205);
+    border-radius: 20px;
+    
+}
+
+.all-info p{
+    margin: 0.6rem 0;
+}
+
+.all-countries h2{
+    margin-top: 0.8rem;
+}

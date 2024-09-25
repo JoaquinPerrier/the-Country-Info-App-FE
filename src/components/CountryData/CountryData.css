@@ -1,0 +1,22 @@
+.country-data h2{
+    margin-top: 0.8rem;
+}
+
+.country{
+    margin: 1rem;
+    padding: 0.5rem 2rem;
+    background-color: rgb(74, 74, 74);
+    color: rgb(205, 205, 205);
+    border-radius: 20px;
+}
+.country h3{
+    margin: 0.4rem 0;
+}
+
+.country h4{
+    margin-bottom: 0.4rem;
+}
+
+.each-border-country{
+    margin-bottom: 0.6rem;
+}

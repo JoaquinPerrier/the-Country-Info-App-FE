@@ -1,0 +1,18 @@
+main{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.center-text{
+    margin: 0 auto;
+    text-align: center;
+}
+
+header{
+    background-color: rgb(55, 55, 55);
+}
+
+header .center-text{
+    color: rgb(216, 216, 216);
+    padding: 2rem 0;
+}
